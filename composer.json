@@ -1,5 +1,5 @@
 {
-    "name" : "testbundle",
+    "name" : "krucsoati",
     "description" : "A test bundle",
     "type" : "symfony-bundle",
     "authors" : [{
@@ -19,7 +19,7 @@
             "TestBundle" : ""
         }
     },
-    "target-dir" : "krucsoati\\TestBundle",
+    "target-dir" : "TestBundle",
     "repositories" : [{
     }],
     "extra" : {
