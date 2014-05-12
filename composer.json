@@ -1,0 +1,30 @@
+{
+    "name" : "krucsoati/testbundle",
+    "description" : "A test bundle",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "test",
+        "email" : "demo@company.com"
+    }],
+    "keywords" : [
+        "test bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "krucsoati\\TestBundle" : ""
+        }
+    },
+    "target-dir" : "krucsoati\\TestBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+        "branch-alias" : {
+            "dev-master" : "2.2-dev"
+        }
+    }
+}
