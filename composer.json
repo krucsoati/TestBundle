@@ -16,7 +16,7 @@
     },
     "autoload" : {
         "psr-0" : {
-            "krucsoati\TestBundle" : ""
+            "krucsoati\\TestBundle" : ""
         }
     },
     "target-dir" : "TestBundle",
