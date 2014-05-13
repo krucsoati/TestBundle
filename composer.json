@@ -19,7 +19,8 @@
             "krucsoati\\TestBundle" : ""
         }
     },
-    "target-dir" : "krucsoati/TestBundle",
+    //"target-dir" : "krucsoati/TestBundle",
+    "target-dir" : "",
     "repositories" : [{
     }],
     "extra" : {
