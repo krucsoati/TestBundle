@@ -16,7 +16,7 @@
     },
     "autoload" : {
         "psr-0" : {
-            "Krucsoati\\" : "Entity"
+            "" : ""
         }
     },
     //"target-dir" : "krucsoati/TestBundle",
