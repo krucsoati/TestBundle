@@ -1,5 +1,5 @@
 {
-    "name" : "krucsoati/tesztbundle",
+    "name" : "krucsoati/TestBundle",
     "description" : "A test bundle",
     "type" : "symfony-bundle",
     "authors" : [{
