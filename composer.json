@@ -1,5 +1,5 @@
 {
-    "name" : "krucsoati/TestBundle",
+    "name" : "krucsoati/testbundle",
     "description" : "A test bundle",
     "type" : "symfony-bundle",
     "authors" : [{
@@ -16,11 +16,10 @@
     },
     "autoload" : {
         "psr-0" : {
-            "" : ""
+            "Krucsoati\\TestBundle" : ""
         }
     },
-    //"target-dir" : "krucsoati/TestBundle",
-    "target-dir" : "",
+    "target-dir" : "Krucsoati/TestBundle",
     "repositories" : [{
     }],
     "extra" : {
